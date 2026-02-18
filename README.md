@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/github-header-banner.png" alt="banner" />
+</p>
+
 <h1 align="left">Hello world! i'm Afhwan Rezky Permana👋</h1>
 
 ###
