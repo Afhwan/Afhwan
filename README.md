@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">About Me:<br>I am a Network Information Systems and Applications student at SMKN 1 Jakarta, Indonesia. I am a fast learner and passionate about security. My ultimate goal is to become a Cybersecurity Engineer or Penetration Tester.<br><br>🛡️ Focus: Cybersecurity & Penetration Testing.<br> 💻 Current Learning: Deepening Python, JavaScript, and advanced security concepts.<br>🐧 Linux Enthusiast: Kali Linux daily user and experienced with various distros.<br>🌐 Foundations: Proficient in HTML, CSS, and web fundamentals.</p>
+<p align="left">About Me:<br>I am a Network Information Systems and Applications student at SMKN 1 Jakarta, Indonesia. I am a fast learner and passionate about security. My ultimate goal is to become a Cybersecurity Engineer.<br>🛡️ Focus: Cybersecurity & Penetration Testing.<br> 💻 Current Learning: Deepening Python, JavaScript, and advanced security concepts.<br>🐧 Linux Enthusiast: Kali Linux daily user and experienced with various distros.</p>
 
 ###
 
